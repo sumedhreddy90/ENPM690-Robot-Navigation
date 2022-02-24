@@ -66,8 +66,10 @@ source devel/setup.bash
 roslaunch autoroomba auto_mode.launch
 ```
 ## Output Video Recording
+Video on Youtube at: https://youtu.be/B1xM1Jdah1c
 
-https://user-images.githubusercontent.com/24978535/155582095-eedbf3e6-226c-4cb9-b6b7-2cb16e4c3dbc.mp4
+https://user-images.githubusercontent.com/24978535/155582302-bc1d77a8-aef6-4647-87bb-8b2b1b058c1f.mp4
+
 
 
 
